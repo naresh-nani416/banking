@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("https://www.paymentsjournal.com/wp-content/uploads/2021/12/secure-online-payment-internet-banking-via-credit-card-mobile-scaled.jpg");
+	background-size: cover;
+}
+#form{
+	width: 200px;
+	height: 250px;
+	border: 2px solid black;
+	margin-left: 16%;
+	margin-top: 10%;
+	position: absolute;
+	background: rgba(255, 255, 255, 0.04);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(5.5px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+#h1{
+	margin-left: 250px;
+	margin-top: 10%;
+	color: white;
+}
+.label,.input{
+	margin-left: 15px;
+	margin-top:10px;
+	border-radius: 15px;
+	outline: none;
+}
+#btn{
+	width: 100px;
+	margin-left: 42px;
+}
+.label{
+	color: white;
+	padding-top: 13px;
+}

@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("https://www.shutterstock.com/shutterstock/photos/2321129667/display_1500/stock-photo-bank-statement-text-written-on-red-round-vintage-rubber-stamp-2321129667.jpg");
+	background-size: 1570px 860px;
+	background-repeat: no-repeat;
+}
+#form{
+	width: 200px;
+	height: 340px;
+	border: 2px solid black;
+	margin-left: 44%;
+	margin-top: 13%;
+	position: absolute;
+	background: rgba(255, 255, 255, 0.04);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5.5px);
+-webkit-backdrop-filter: blur(5.5px);
+border: 1px solid rgba(255, 255, 255, 0.18);
+}
+#h1{
+	margin-left: 40px;
+	margin-top: 15px;
+	color: black;
+}
+.label,.input{
+
+	margin-left: 15px;
+	border-radius: 10px;
+	outline: none;
+}
+.input{
+	width: 150px;
+}
+#btn{
+	width: 100px;
+	margin-left: 42px;
+}
+.label{
+	margin-top:20px;
+	color: black;
+}

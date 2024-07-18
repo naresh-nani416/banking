@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("https://img.freepik.com/premium-vector/blue-digital-technology-background-with-white-building-logo-bank_666034-682.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#form{
+	width: 270px;
+	height: 600px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-left: 70%;
+	margin-top: 8%;
+	position: absolute;
+	box-shadow: 5px 5px 8px  black;
+	border-color: white;
+	
+}
+#h1{
+	padding-left: 55px;
+	padding-top:15px;
+	color: white;
+}
+.label,.input{
+	margin-left:35px;
+	
+}
+.label{
+	color:white;
+	font-family: sans-serif;
+}
+.name{
+	padding-left:8px;
+	
+}
+.name{
+	padding-left: 13px;
+	color: white;
+}
+.input{
+	outline:none;
+	width: 170px;
+	height: 20px;
+	border-radius: 8px;
+}
+#btn{
+	width: 100px;
+	margin-left: 80px;
+}

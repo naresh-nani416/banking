@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("https://www.bhmpics.com/downloads/banking-Wallpapers/10.man-using-digital-tablet-online-connect-to-internet-banking-currency-exchange-online-shopping.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#form{
+	width: 270px;
+	height: 300px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-left: 15%;
+	margin-top: 15%;
+	position: absolute;
+	box-shadow: 5px 5px 8px  black;
+	border-color: white;
+	
+}
+#h1{
+	padding-left: 60px;
+	padding-top:15px;
+	color: white;
+}
+.label,.input{
+	margin-left:35px;
+	
+}
+.label{
+	color:white;
+	font-family: sans-serif;
+}
+.input{
+	outline:none;
+	width: 170px;
+	height: 20px;
+	border-radius: 8px;
+}
+#btn{
+	width: 100px;
+	margin-left: 80px;
+}
+#h2,#h6{
+	margin-left: 80px;
+	margin-top: 80px;
+	color: white;
+	text-decoration: none;
+}
+#h6{
+	margin-top: 50px;
+}

@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("https://t3.ftcdn.net/jpg/04/39/13/60/360_F_439136084_fKgadjwAYOpZzJfAiqfxJt1dRv3YOl6u.jpg");
+	background-size: cover;
+}
+#form{
+	width: 200px;
+	height: 300px;
+	border: 2px solid black;
+	margin-left: 20%;
+	margin-top: 10%;
+	position: absolute;
+	background: rgba(255, 255, 255, 0.04);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5.5px);
+-webkit-backdrop-filter: blur(5.5px);
+border: 1px solid rgba(255, 255, 255, 0.18);
+}
+#h1{
+	margin-left: 60px;
+	margin-top: 20px;
+	color: white;
+}
+.label,.input{
+	margin-left: 15px;
+	border-radius: 10px;
+	outline: none;
+}
+#btn{
+	width: 100px;
+	margin-left: 42px;
+}
+.label{
+	color: white;
+}

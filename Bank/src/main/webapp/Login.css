@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url("https://e1.pxfuel.com/desktop-wallpaper/585/761/desktop-wallpaper-backgrounds-bank-bank-afari-bank-account-thumbnail.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#form{
+	width: 270px;
+	height: 300px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-left: 40%;
+	margin-top: 11%;
+	position: absolute;
+	box-shadow: 5px 5px 8px  black;
+	border-color: white;
+	
+}
+#h1{
+	padding-left: 85px;
+	padding-top:15px;
+	color: white;
+}
+.label,.input{
+	margin-left:35px;
+	
+}
+.label{
+	color:white;
+	font-family: sans-serif;
+}
+.input{
+	outline:none;
+	width: 170px;
+	height: 20px;
+	border-radius: 8px;
+}
+#btn{
+	width: 100px;
+	margin-left: 80px;
+}
+#h2,#h6{
+	margin-left: 80px;
+	margin-top: 80px;
+	color: white;
+	text-decoration: none;
+}
+#h6{
+	margin-top: 50px;
+}
